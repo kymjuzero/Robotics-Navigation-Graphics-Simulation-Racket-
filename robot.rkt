@@ -1,13 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname robot) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor mixed-fraction #f #t none #f () #t)))
-;;
-;;*************************************************
-;; Josephina Kim (21092172)
-;; CS 135 Fall 2023
-;; Assignment 03, Question 3
-;;*************************************************
-;;
+
 
 
 ;; An robots state (x, y, direction) is a (cons Nat (cons Nat (cons symbol empty)))
